@@ -1,0 +1,1 @@
+print("včera boli vianoce")
